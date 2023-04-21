@@ -1112,5 +1112,3 @@ And yet never grows?"
 
   except EOFError:
     print("You did not enter any input. Please try again.")
-
-import scenario1
